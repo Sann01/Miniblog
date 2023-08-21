@@ -1,0 +1,8 @@
+*{
+    display: none;
+}
+.btn-outline-success{
+    background-color: transparent !important;
+    border:solid 1px #f00 !important;
+    color: #f00 !important;
+}

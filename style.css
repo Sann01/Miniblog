@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.col-lg-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.card{
+    height: 25rem !important;
+}
+.btn{
+    background-color: #f00!important;
+    border: none!important;
+}
+.btn-outline-success{
+    background-color: transparent !important;
+    border:solid 1px #f00 !important;
+    color: #f00 !important;
+}
+.contact-box{
+    font-size: 1.2em;
+}
+.card-img-top{
+    width: 200px;
+    height: 200px;
+}
